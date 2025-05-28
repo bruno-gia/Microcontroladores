@@ -1,6 +1,7 @@
 # Integrantes
 
 Bruno Giannini Loffreda | RA: 21.00122-7
+
 Breno Amorim Roman      | RA: 20.00395-0
 
 # Contextualização
@@ -35,7 +36,7 @@ Armazenar a estrutura de dados em uma memória interna
 RF8
 Ter uma bateria para permitir implantação em campo
 
-R9
+RF9
 Construir um invólucro de proteção para os sensores
 
 RA1
